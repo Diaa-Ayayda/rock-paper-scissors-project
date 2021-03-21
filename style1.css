@@ -1,0 +1,158 @@
+
+.selection1{
+    position: absolute;
+
+    background-color:rgb(75, 75, 75);
+    border: 1px solid rgb(255, 255, 255);
+    color: yellow;
+    font-size: 50px;
+    right:36%;
+    bottom: 66%;
+    border-radius: 100%;
+
+  
+
+}
+.selection2{
+    position: absolute;
+
+    background-color:rgb(75, 75, 75);
+    border: 1px solid rgb(255, 255, 255);
+    color: yellow;
+    font-size: 50px;
+    right:45.5%;
+    bottom: 66%;
+    border-radius: 100%;
+  
+
+}
+.selection3{
+    position: absolute;
+width: auto;
+    background-color:rgb(75, 75, 75);
+    border: 1px solid rgb(255, 255, 255);
+    color: yellow;
+    font-size: 50px;
+    right:55%;
+    bottom: 66%;
+    border-radius: 100%;
+    width: 4.5%;
+}
+
+.playerchoice{
+    position: absolute;
+
+    font-size: 30px;
+    left:25%;
+    bottom: 35%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.computer{
+    position: absolute;
+   font-size: 20px;
+    left:43%;
+    bottom: 35%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+   
+
+}
+.h1{position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   right:36%;
+   color:#34495e;
+   font-size: 2rem;
+  
+   
+  
+}
+.Result{
+    position: absolute;
+   font-size: 23px;
+    left:48%;
+    bottom: 20%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color:rgb(175, 173, 173);
+}
+.playagai{
+    position: absolute;
+    left:60px;
+    bottom:10%;
+    border-radius: 1cm;
+    border: 3px solid green;
+    background-color: green;
+color: white;
+left: 48%;
+
+
+}
+.result-scor{
+    position: absolute;
+    background:teal;
+    border: 3px solid rgb(12, 12, 12);
+   bottom: 17%; 
+   border-radius: 1cm;
+   left: 45%;
+   color: rgb(253, 251, 251);
+   width: 10.5%;
+       
+}
+.select{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   right:45%;
+   bottom:80%;
+
+}
+.result_mt-2_p-2{
+    position: absolute;
+    bottom:30%;
+    left: 43%;
+    font-size: x-large;
+    color: rgb(216, 72, 72);
+}
+.comput{
+    position: absolute;
+
+    background-color:rgb(175, 173, 173);
+    border: 1px solid rgb(175, 173, 173);
+    color: yellow;
+    font-size: 50px;
+    right:36%;
+    bottom: 43%;
+    border-radius: 100%;
+
+}
+
+.user{
+    position: absolute;
+    background-color:rgb(175, 173, 173);
+    border: 1px solid rgb(175, 173, 173);
+        color: yellow;
+        font-size: 50px;
+        right:55%;
+        bottom: 43%;
+        border-radius: 100%;
+        width: 4.5%;
+}
+.player{position: absolute;
+    font-size: 20px;
+        right:55%;
+        bottom: 52%;
+        border-radius: 100%;
+        width: 4.5%;
+
+}
+.computer_choice{
+    position: absolute;
+    font-size: 20px;
+        right:36%;
+        bottom: 52%;
+        border-radius: 100%;
+        width: 4.5%;
+
+}
